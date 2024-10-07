@@ -25,7 +25,6 @@ Recently, I transitioned my career to **DevOps and Web Development**, with the g
 I'm always looking for new projects and challenges where I can apply my enthusiasm and skills. If you're interested in innovating and turning ideas into reality, I'm ready to collaborate! Let's connect and create something amazing together.
 ---
 
-📧 **Email**: [ivan.almeida@example.com](mailto:ivan.almeida@example.com)
 
 🔗 **LinkedIn**: [linkedin.com/in/ivan-almeida](https://www.linkedin.com/in/ivan-almeida)
 
