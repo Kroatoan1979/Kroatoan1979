@@ -11,21 +11,22 @@ Recently, I transitioned my career to **DevOps and Web Development**, with the g
 - **Monitoring and Observability**: Ensuring high availability and performance with **Prometheus** and **Grafana**.
 
 ### 🛠 Technologies I Work With
-- **Operating Systems**: Linux
+- **Operating Systems**: Windows, Linux
 - **Virtualization**: Oracle VirtualBox, VMware
-- **Programming**: Python (Django, Flask, Tkinter, OOP), JavaScript, SQL
+- **Programming**: HTML, CSS, JavaScript, React Python (Django, Flask, Tkinter), SQL, NoSQL
+
 - **Infrastructure as Code (IaC)**: Terraform, Ansible
 - **CI/CD**: GitLab CI/CD, Jenkins
 - **Version Control**: Git
 - **Containerization**: Docker, Kubernetes
 - **Monitoring**: Prometheus, Grafana
-- **Cloud**: AWS, Microsoft Azure
+- **Cloud**: AWS, GCP
 
 ### 📫 Let's Collaborate!
 I'm always looking for new projects and challenges where I can apply my enthusiasm and skills. If you're interested in innovating and turning ideas into reality, I'm ready to collaborate! Let's connect and create something amazing together.
 ---
 
 
-🔗 **LinkedIn**: [linkedin.com/in/ivan-almeida](www.linkedin.com/in/ivan-almeida-2b8a77165)
+🔗 **LinkedIn**: (www.linkedin.com/in/ivan-almeida-2b8a77165)
 
-🔗 **GitHub**: [github.com/ivan-almeida](https://github.com/Kroatoan1979)
+🔗 **GitHub**: (https://github.com/Kroatoan1979)
