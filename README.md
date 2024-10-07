@@ -28,4 +28,4 @@ I'm always looking for new projects and challenges where I can apply my enthusia
 
 🔗 **LinkedIn**: [linkedin.com/in/ivan-almeida](www.linkedin.com/in/ivan-almeida-2b8a77165)
 
-🔗 **GitHub**: [github.com/ivan-almeida]([https://github.com/ivan-almeida](https://github.com/Kroatoan1979))
+🔗 **GitHub**: [github.com/ivan-almeida](https://github.com/Kroatoan1979)
