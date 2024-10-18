@@ -34,9 +34,6 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,react,python,django,tailwind,bootstrap,aws,git,github,postgres,mysql,&theme=dark" />
 
----
-
-#
 
   <p><strong>Contact me</strong></p>
 
