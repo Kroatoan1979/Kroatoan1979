@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Ivan Almeida
+# Hello! 👋 I'm Ivan Almeida
 
 I'm passionate about innovations in the world of Information Technology, always seeking new challenges and opportunities to learn, grow, and innovate. 🎯
 
