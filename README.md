@@ -34,14 +34,13 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,html,css,react,python,django,tailwind,bootstrap,aws,git,github,postgres,mysql,&theme=dark" />
 
-
+#
   <p><strong>Contact me</strong></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ivan-almeida-2b8a77165" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
 </div>
 
+#
 ### 📫 Let's Collaborate!
-###### I'm always looking for new projects and challenges where I can apply my enthusiasm and skills. If you're interested in innovating and turning ideas into reality, I'm ready to collaborate! Let's connect and create something amazing together.
----
-
+##### I'm always looking for new projects and challenges where I can apply my enthusiasm and skills. If you're interested in innovating and turning ideas into reality, I'm ready to collaborate! Let's connect and create something amazing together.
