@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  FullStack Developer • DevOps • Trader
+  FullStack Developer • DevOps
 </h3>
 
 <div align='center'>
